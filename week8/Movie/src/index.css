@@ -1,0 +1,11 @@
+html, body, div, span,
+h1, ol, ul, li{
+	margin: 0;
+    list-style: none;
+
+}
+
+body {
+    background-color: #22254b;
+    padding-top: 75px;
+}
